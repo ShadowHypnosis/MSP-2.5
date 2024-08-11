@@ -9,8 +9,8 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "base-certificates.gl.joinmc.link",
-          "assigned_srv": "base-certificates.gl.joinmc.link",
+          "assigned_domain": "less-luke.gl.joinmc.link",
+          "assigned_srv": "less-luke.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
